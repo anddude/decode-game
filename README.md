@@ -68,7 +68,3 @@ When the page loads, the game will start automatically. All interaction happens 
 ## Easter Eggs
 
 💡 Pay attention to the dialogue. The Senior Developer has a few surprises in store depending on how you play…
-
----
-
-Would you like me to also create a shorter, portfolio-friendly blurb version of this README (like your “Personal Website” one) that you can paste on GitHub or LinkedIn without all the setup detail?`# decode-game
